@@ -93,7 +93,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    padding-top: calc(env(safe-area-inset-top) + 56px /* @header__height */);
+    /* padding-top: calc(env(safe-area-inset-top) + @header__height); */
     color: #fff;
     background-color: #2ae;
     background-image: url(../img/poly_btm_bg.png);
